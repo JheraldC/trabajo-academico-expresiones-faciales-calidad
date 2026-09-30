@@ -36,4 +36,4 @@ Este repositorio conserva un trabajo académico. Los comandos describen el uso p
 
 Esta versión incluye [sonar-project.properties](sonar-project.properties) y un [workflow](.github/workflows/build.yml) de análisis SonarQube. Su ejecución requiere la configuración del servidor y de los secretos del workflow. La presencia de esa configuración no acredita un Quality Gate aprobado ni un valor de cobertura.
 
-La [versión base](https://github.com/JheraldC/ReconocimientoEmociones) conserva el proyecto sin esa configuración.
+La [versión base](https://github.com/JheraldC/trabajo-academico-expresiones-faciales) conserva el proyecto sin esa configuración.
